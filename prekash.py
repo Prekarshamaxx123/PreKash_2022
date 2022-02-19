@@ -1,5 +1,5 @@
-# PreKash_2022
-Facebook Clone new tool 🙂🌼
+# PreKash_202
+
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 
 from multiprocessing.pool import ThreadPool
